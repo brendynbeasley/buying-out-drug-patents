@@ -1,0 +1,17 @@
+# Large public downloads, fetched by the scripts
+data/raw/partd/
+data/raw/cps/
+*.part
+
+# Secrets
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store
